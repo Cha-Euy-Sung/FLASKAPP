@@ -2,7 +2,6 @@ import urllib.request
 import urllib.parse
 import re
 import get_weather
-import pandas as pd
 import model
 
 
